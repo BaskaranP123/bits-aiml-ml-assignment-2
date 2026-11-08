@@ -49,7 +49,7 @@ The test dataset contains 8,238 records.
 
 ## 3. GitHub Repository
 
-Repository URL: To be added after GitHub upload.
+Repository URL: https://github.com/BaskaranP123/bits-aiml-ml-assignment-2
 
 ## 4. Classification Models
 
@@ -158,7 +158,7 @@ python -m streamlit run app.py
 
 Platform: Streamlit Community Cloud
 
-Live Application URL: To be added after deployment.
+Live Application URL: https://bits-aiml-2026ak05473.streamlit.app
 
 ## 12. Conclusion
 
