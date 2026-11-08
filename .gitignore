@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+data/*.zip
+
+.DS_Store
+__MACOSX/
+data/**/.DS_Store
+data/**/.Rhistory
+data/**/__MACOSX/
